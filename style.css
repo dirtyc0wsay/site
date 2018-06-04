@@ -1,0 +1,46 @@
+ul {
+	border: 1px solid black;
+	display: inline;
+	list-style-type: none;
+	margin: auto;
+	width: 25%;
+    margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+body {
+	background-color: black;
+}
+
+p {
+	color: white;
+}
+
+li {
+  display: inline; 
+}
+.navbar {
+	display: inline;
+	position: fixed;
+	margin: auto;
+	width: 50%;
+	list-style-type: none;
+	padding: 0;
+	background-color: blue;
+}
+
+a:visited {
+	color: #00F2FF;
+}
+
+.navbar a {
+	text-decoration: none;
+	background-color: red;
+	color: black;
+ }
+
+body {
+	overflow-y: scroll;
+}
+
